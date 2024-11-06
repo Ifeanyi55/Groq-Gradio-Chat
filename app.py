@@ -1,3 +1,6 @@
+# pip install groq-gradio
+# pip install --upgrade gradio
+
 import gradio as gr
 import groq_gradio
 import os
